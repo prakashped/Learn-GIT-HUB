@@ -1,0 +1,14 @@
+package SeleniumJava.SeleniumJava;
+
+public class ReverseString {
+
+	public static void main(String[] args) {
+	String str="Prakash";
+	String str1="";
+	for (int i=str.length();i>=0;i--) {
+		strl=strl+str.charAt(i);
+	}
+
+	}
+
+};

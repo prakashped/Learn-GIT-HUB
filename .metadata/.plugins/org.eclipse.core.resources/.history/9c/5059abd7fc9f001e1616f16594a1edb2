@@ -1,0 +1,8 @@
+package org.sample;
+
+public class Employee {
+static int a=10;
+
+}
+
+

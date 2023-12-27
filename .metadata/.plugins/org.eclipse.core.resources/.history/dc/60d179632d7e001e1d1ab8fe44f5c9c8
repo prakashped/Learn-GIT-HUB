@@ -1,0 +1,22 @@
+package SeleniumJava.SeleniumJava;
+
+public class Hello  {
+	Java1 j = new Java1();
+	public void display() {
+		System.out.println("Display is void method");
+		String sr= j.method();
+		System.out.println(sr);
+		System.out.println(j.method());
+	}
+public static void display1() {
+	System.out.println("Display1 is static method");
+	Java1 obj1=new Java1();
+	obj1.method();
+}
+	public static void main(String[] args) {
+		Hello obj=new Hello();
+		obj.display();
+		display1();
+	}
+
+}

@@ -1,0 +1,12 @@
+package SeleniumJava.SeleniumJava;
+
+public class Array1 {
+
+	public static void main(String[] args) {
+		String st="India is my Country";
+		String[]names=st.split("i");
+		System.out.println(names[0]);
+
+	}
+
+}

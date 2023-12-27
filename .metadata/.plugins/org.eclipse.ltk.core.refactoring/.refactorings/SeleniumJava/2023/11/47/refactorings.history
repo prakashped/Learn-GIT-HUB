@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;SeleniumJava/src/main/java/SeleniumJava/SeleniumJava/App.java&apos; to &apos;Excel.java&apos;" description="Rename resource &apos;App.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/SeleniumJava/SeleniumJava/App.java" name="Excel.java" stamp="1700833812553" updateReferences="true"/>
+</session>

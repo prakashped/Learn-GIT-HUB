@@ -1,0 +1,11 @@
+package SeleniumJava.SeleniumJava;
+
+public class Java1 {
+	public String method() {
+		String S="Laksh";
+		return S;
+	}
+
+	
+
+}

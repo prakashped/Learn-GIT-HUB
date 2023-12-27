@@ -1,0 +1,21 @@
+package SeleniumJava.SeleniumJava;
+
+import java.util.HashMap;
+
+public class HashMapCount {
+
+	public static void main(String[] args) {
+		String word="Prakash";
+		String word1="";
+		int count=0;
+		HashMap hp=new HashMap();
+		for (int i=word.length();i<=0;i++) {
+			word1=word1+word.charAt(i);
+			hp.put(word1,count);
+			
+			
+		}
+		System.out.println(count);
+	}
+
+}
