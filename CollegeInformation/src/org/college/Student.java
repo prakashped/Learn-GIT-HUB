@@ -6,7 +6,7 @@ public void studentName() {
 }
 public void studentDept() {
 	System.out.println("The student dept is CSE");
-
+System.out.println("The student dept is IT");
 }
 public void studentId() {
 	System.out.println("The student id is 123");
