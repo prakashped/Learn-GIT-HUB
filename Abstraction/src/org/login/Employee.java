@@ -14,6 +14,7 @@ System.out.println("emp id is 1234");
 @Override
 public void empName() {
 	System.out.println("emp name is Alpha");
+	System.out.println("emp name is Prakash");
 	
 }
 @Override
